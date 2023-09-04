@@ -1,0 +1,3 @@
+/home/imdang89/code/DesignPatern/build/CMakeFiles/rebuild_cache.dir
+/home/imdang89/code/DesignPatern/build/CMakeFiles/edit_cache.dir
+/home/imdang89/code/DesignPatern/build/CMakeFiles/designpatern.dir
